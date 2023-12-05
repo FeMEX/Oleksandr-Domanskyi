@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oleksandr Domanskyi and I'm a back-end developer, from Ukraine</h2>
+<h2 align="left">Hi 👋! My name is Oleksandr Domanskyiand I'm a back-end developer, from Ukraine</h2>
 
 ###
 
