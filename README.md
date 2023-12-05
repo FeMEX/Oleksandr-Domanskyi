@@ -22,21 +22,7 @@
 
 ###
 
-<h3 align="left">Social</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/%D1%81%D0%B0%D1%88%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-65a21b244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="sasha2001do@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="t.me/FeZoXsasha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
@@ -44,7 +30,21 @@
 
 ###
 
-<img align="right" height="298" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/%D1%81%D0%B0%D1%88%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-65a21b244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="t.me/FeZoXsasha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/nekoma.sasha?igshid=MTNiYzNiMzkwZA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Social</h3>
 
 ###
 
