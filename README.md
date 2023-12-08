@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">🌍 I'm based in Poland in city Rzeszow <br>✉️ You can contact me at sasha2001do@gmail.com<br>🧠 I'm learning a ASP.NET Core 6 (C#) and Entity Framework with Azure cloud backend deployment(Postman, SQL, Git)<br>⚡ I’m interested in a creating a new functions with database.</p>
+<p align="left">🌍 I'm based in Poland in city Rzeszow <br>✉️ You can contact me at sasha2001do@gmail.com<br>🧠 I'm learning a ASP.NET Core 8.0 (C#) and Entity Framework with Azure cloud backend deployment(Postman, SQL, Git)<br>⚡ I’m interested in a creating a new functions with database.</p>
 
 ###
 
@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/%D1%81%D0%B0%D1%88%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-65a21b244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="www.linkedin.com/in/oleksandr-domanskyi-65a21b244" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="t.me/FeZoXsasha" target="_blank">
