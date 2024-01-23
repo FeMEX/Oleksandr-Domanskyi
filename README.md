@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">🌍 I'm based in Poland in city Rzeszow <br>✉️ You can contact me at sasha2001do@gmail.com<br>🧠 I'm learning a ASP.NET Core 8.0 (C#) and Entity Framework with Azure cloud backend deployment(Postman, SQL, Git)<br>⚡ I’m interested in a creating a new functions with database.</p>
+<p align="left">🌍 I'm based in Poland in city Rzeszow <br>✉️ You can contact me at sasha2001do@gmail.com<br>🧠 I'm learning a ASP.NET Core 8.0 and MVC (C#) and Entity Framework with Azure cloud backend deployment(Postman, SQL, Git)<br>⚡ I’m interested in a creating a new functions with database.</p>
 
 ###
 
